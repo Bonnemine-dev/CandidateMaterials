@@ -105,7 +105,7 @@ _What do you think should be improved on our product?_
 
 _Why do you want to work for CleverCloud?_
 
-> I am eager to complete my internship at CleverCloud for several reasons. First and foremost, I am convinced that CleverCloud is a company where I can flourish professionally. As a French company with fresh ambitions, it would be an incredible opportunity for me to start my career alongside you. CleverCloud offers services to both businesses and individuals, making their lives easier, which aligns perfectly with my passion for developing innovative solutions. Moreover, I am drawn to the company's culture, which upholds values that are dear to me. I am confident that I have much to learn at CleverCloud and am motivated by the prospect of contributing to your mission.
+> I am eager to complete my internship at CleverCloud for several reasons. First and foremost, I am convinced that CleverCloud is a company where I can flourish professionally. As a French company with fresh ambitions, it would be an incredible opportunity for me to start my career alongside you. CleverCloud offers services to both businesses and individuals, making their lives easier, which aligns perfectly with my passion for developing innovative solutions. Moreover, I am drawn to the company's culture, which upholds values that are dear to me. Moreover, the way the collaborators work appeals to me greatly, and the idea of potentially joining you as an intern next year excites me even more. I am confident that I have much to learn at CleverCloud and am motivated by the prospect of contributing to your mission.
 
 <br/><br/>
 
