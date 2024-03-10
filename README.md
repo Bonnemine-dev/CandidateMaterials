@@ -1,3 +1,7 @@
+## Application form for an internship at Clever Cloud
+### Arthur ANCIEN
+### On 10/03/2024
+> arthur.ancien.pro@gmail.com | 06 31 15 09 19
 
 <h1 style="text-align: center;">Thank you for your interest in Clever Cloud!</h1>
 
@@ -77,23 +81,27 @@ Please answer the following questions, using as much space as you need. All of t
 
 _What work have you found most technically challenging in your career and why?_
 
-> During my studies, I faced the challenge of programming an electronic device comprising a microcontroller and three different sensors. The major challenge lay in optimizing the program, which was initially too complex for the microcontroller's capabilities. Determined to integrate all the planned functionalities, I had to optimize resource usage and memory management. This led me to delve into complex technical documentation and to deeply understand the microcontroller's specifics. I also learned to use debugging tools to diagnose issues in my program and profiling tools to identify performance bottlenecks. I had to be rigorous in adhering to strict technical constraints and curious in mastering new tools to solve unprecedented problems. Despite facing significant complexity, I found solutions to achieve my goals without compromising the original vision.
+> During my studies, I faced the challenge of programming an electronic device comprising a microcontroller and three different sensors. The major challenge lays in optimizing the program, which was initially too complex for the microcontroller's capabilities. I wanted to integrate all the planned functionalities so I had to optimize resource usage and memory management, For example, I optimised the system's functionality by making it run only when needed, with a defined number of cores and memory space allocated in advance. I defined these two elements after running tests and using a profiler. Thanks to this optimisation, I was able to run the code on the programming board without any slowdowns or crashes. This led me to delve into complex technical documentation to further understand the microcontroller's internals. I also learned to use debugging tools to diagnose issues in my program and profiling tools to identify performance bottlenecks. I had to be rigorous in adhering to strict technical constraints and adopting new tools to solve problems that I had never encountered before. Despite facing significant complexity, I found solutions to achieve my goals without compromising the original vision.
 
 _What work have you done that you were particularly proud of and why?_
 
-> SmartCampus is an innovative project designed by my university institute, aimed at managing the ambiance within classroom spaces of our building. Data acquisition systems have been installed in each room to measure temperature, humidity, and CO2 levels. This information is transmitted via an HTTP POST request to a REST API, which records it in a database. A web application then allows real-time visualization of this data and offers personalized recommendations to room users, based on the collected measurements. For example, if the temperature exceeds a certain threshold, the application suggests opening windows for ventilation. A designated administrator can monitor this information through a dashboard, displaying data in the form of tables and graphs, enabling efficient management of the ambiance in each room.
+> SmartCampus is an innovative project that I worked on for my university course, aimed at managing the environment in the classrooms of our building. Data acquisition systems have been installed in each room to measure temperature, humidity, and CO2 levels. This information is transmitted via an HTTP POST request to a REST API, which records it into a database. A web application then allows real-time visualization of this data and offers personalized recommendations to room users, based on the collected measurements. For example, if the temperature exceeds a certain threshold, the application suggests opening windows for ventilation. A designated administrator can monitor this information through a dashboard, displaying data in the form of tables and graphs, enabling efficient management of the ambiance in each room.
+
+> I am particularly proud of what I achieved with this project. I had never integrated both frontend and backend systems before. I found that my
+experience working in C/C++ meant that the controller integration was completed rapidly. I enjoyed working on Symfony to develop the frontend
+as I had to use a different mindset when coding compared to when I use C/C++.
 
 _When have you been happiest in your professional career and why?_
 
-> I am happiest when I am working on projects that I am passionate about. A project that appeals to me is one that is useful, either by improving a company's performance or by contributing to the improvement of people's daily lives. Recently, I have found great satisfaction in my work because I had the opportunity to focus on an aspect that particularly interests me, and I was able to learn new things independently.
+> Although I am still a student, I have been happiest when I am working on projects that work on low level components such as microcontrollers. I have been using Arduino for around 5 years and I have developed many different components as a hobby. This led me to work on more higher level software such as video games and the opportunity to explore other languages such as Python and Symfony.
 
 _When have you been unhappiest in your professional career and why?_
 
-> Sometimes, especially at the beginning of the semester, I find some classes boring. This sense of boredom mainly stems from the fact that, although theoretical courses are important, they fail to capture my attention. I am someone who needs practical experiences. Experimenting and learning by doing are the aspects of the learning process that I prefer. Therefore, I feel less motivated when the courses offer few practical opportunities.
+> Sometimes, especially at the beginning of the semester, I find some classes boring. This sense of boredom mainly stems from the fact that, although theoretical courses are important, they fail to capture my attention. I am someone who needs practical experiences. Experimenting and learning by doing are the aspects of the learning process that I prefer. Therefore, I feel less motivated when the courses offer few practical opportunities. However I do understand the importance of acquiring strong theortical foundations and therefore I apply myself to overcome the fact that I do not always enjoy those courses.
 
 _Regarding CleverCloud's values, is there any that you oppose?_
 
-> No, I share the values of CleverCloud.
+> I believe the values described are essential for a meaningful work ethic.
 
 _For a pair of CleverCloud's values, describe a time in which the two values came into tension for you or your work, and how you resolved it._
 
@@ -101,11 +109,12 @@ _For a pair of CleverCloud's values, describe a time in which the two values cam
 
 _What do you think should be improved on our product?_
 
-> Your products are amazing! However, I think it would be interesting to make them even more accessible to people who are not familiar with the cloud. By improving the user journey and making the interface more intuitive, you could attract a broader audience. One suggestion would be to implement a system of tutorial videos for new users.
+> Your products are amazing! However, I think it would be interesting to make them even more accessible to people who are not familiar with the cloud. By improving the user journey for example, I think it would be useful to implement a series of tutorial videos for new users. Sometimes when you are faced with a new product interface, it can be overwhelming to understand where to begin.
 
 _Why do you want to work for CleverCloud?_
 
-> I am eager to complete my internship at CleverCloud for several reasons. First and foremost, I am convinced that CleverCloud is a company where I can flourish professionally. As a French company with fresh ambitions, it would be an incredible opportunity for me to start my career alongside you. CleverCloud offers services to both businesses and individuals, making their lives easier, which aligns perfectly with my passion for developing innovative solutions. Moreover, I am drawn to the company's culture, which upholds values that are dear to me. Moreover, the way the collaborators work appeals to me greatly, and the idea of potentially joining you as an intern next year excites me even more. I am confident that I have much to learn at CleverCloud and am motivated by the prospect of contributing to your mission.
+> I am eager to complete my internship at CleverCloud for several reasons. I am convinced that CleverCloud is a company where I can flourish professionally. As a French company with fresh ambitions, it would be an incredible opportunity for me to start my career with the CleverCloud team. There are not many companies that provide the opportunity to work on a large scope of technologies, especially Open Source software, and provide the support to contribute back to the community. 
+I am interested in learning everything there is regarding the technical stack, from backend servers, networking, frameworks to frontend development. These are areas where I do not have the opportunity to interact with at great detail, at university in the context of my courses. An intership with a company like CleverCloud appears to me as the best way to get to work in these areas. I am confident that I have much to learn at CleverCloud and am motivated by the prospect of contributing to your mission.
 
 <br/><br/>
 
@@ -117,19 +126,19 @@ The ultimate measure of an engineer is our work. Please submit between one to th
 
 _Work(s) sample(s)_
 
-I will describe two projects that I have completed and am proud of. All these works were done using GITlab on the forge of my university. This is why there is no activity on my GitHub account.
+I will describe two projects that I have completed and am proud of. I used my university internal Gitlab for these projects, hence why there is no activity on my GitHub account.
 
-Let's start with the SmartCampus project. 
+<h3 style="text-align: center;">SmartCampus</h3>
 
-This project was entrusted to us by the city of La Rochelle, aimed at reducing unnecessary energy consumption and improving students' working conditions. We implemented a system of sensors that measure temperature, humidity, and CO2 levels in classrooms. These data are then sent to a REST API (Framework: API Platform, PHP) which stores them in a database (MySQL). Finally, a web application (Framework: Symfony, PHP) allows real-time visualization of these data and provides tailored recommendations to the room users, based on the captured values. For instance, if the temperature is too high, the application suggests opening the windows. 
+This project, initiated by the city of La Rochelle, aimed at reducing unnecessary energy consumption and improving students' working conditions. We implemented a system of sensors that measure temperature, humidity, and CO2 levels in classrooms. These data are then sent to a REST API (Framework: API Platform, PHP) which stores them in a database (MySQL). Finally, a web application (Framework: Symfony, PHP) allows real-time visualization of these data and provides tailored recommendations to the room users, based on the captured values. For instance, if the temperature is too high, the application suggests opening the windows. 
 
-Three personas were identified in this project: Users, the Mission Manager, and the Technician. Each has a well-defined role and specific functionalities. Two personal spaces are accessible, one for the Mission Manager and one for the Technician. The Mission Manager has access to a dashboard for visualizing data through tables and charts (JavaScript), and can request the Technician for the installation of new sensors. The Technician's dashboard allows them to view current sensors and the Mission Manager's requests, and to install new sensors in the classrooms.
+Three types of agents are involved in this project: Users, the Administrator, and the Technician. Each has a well-defined role and specific functionalities. Two personal spaces are accessible, one for the Administrator and one for the Technician. The Administrator has access to a dashboard for visualizing data through tables and charts (JavaScript), and can request the Technician for the installation of new sensors. The Technician's dashboard allows them to view current sensors and the Administrator's requests, and to install new sensors in the classrooms.
 
 Web application developed with Symfony framework -> [GitHub link](https://github.com/Bonnemine-dev/SmartCampus)
 
 **Features**
 - Login system for personal spaces
-- Mission Manager’s personal space:
+- Administrator’s personal space:
   - Global data visualization (averages, trends, etc.)
   - Room-specific data visualization
   - Sensor status display for a selected room
@@ -148,16 +157,18 @@ Data acquisition system developed in C++ with Arduino framework -> [GitHub link]
 
 **Features**
 - Data capturing and data quality check through a filtering algorithm
-- Data sending via WIFI and HTTP POST requests to a REST API
+- Data sent via wireless and HTTP POST requests to a REST API
 - Access to a captive portal (like in airports) for device configuration (SSID, password, IP address, etc.)
 - Anomaly detection and device status display via an LED
 - Automatic night-time standby mode for energy saving
 - Code optimization for minimal energy consumption
 - Data recording in case of connection loss
 
-This project developed my skills in: PHP, JavaScript, HTML, CSS, C++, SQL, REST APIs, GIT, Symfony, Profiling, Networking, Autonomy, Teamwork, etc.
+This project developed my skills in: PHP, JavaScript, HTML, CSS, C++, SQL, REST APIs, Git, Symfony, profiling, networking, autonomy, teamwork and communication.
 
-Another project I am proud of is CharcloBross, a video game inspired by arcade games and MarioBros. The objective of the game is simple: to accumulate as many points as possible. In this platform game, we play as a beggar. Our character defeats enemies by jumping on them and can also collect coins to boost his performance. The game was developed in C++ with QT Creator.
+<h3 style="text-align: center;">CharcloBross</h3>
+
+CharcloBross is a video game inspired by arcade games and the MarioBros franchise. The objective of the game is simple: to accumulate as many points as possible. In this platform game, we play as a beggar. Our character defeats enemies by jumping on them and can also collect coins to boost his performance. The game was developed in C++ with QT Creator.
 
 CharcloBross code link -> [Github link](https://github.com/Bonnemine-dev/RetroG23_A12_CharcloBrosse)
 
@@ -179,9 +190,9 @@ Please submit at least one writing sample (and no more than three) that you feel
 
 _Writing sample(s)_
 
-When we developed the SmartCampus project, we also decided to create a wiki to explain how the project works and to track its progress. This wiki can be accessed at the following address: https://github.com/Bonnemine-dev/SmartCampus/wiki
-We also used Miro to record our ideas. Miro primarily served as a draft for us, but it enabled us to visualize our ideas and share them with other group members. You can view our Miro board here: [Miro board](https://miro.com/welcomeonboard/azdnSjhLdFZNcXpMenUyeU1LUmNsTlVLSUFCN2VFT2dQUHhyMFgxN0NtYVpSRWljMnF4VmxxSERVb3VUTG91aXwzNDU4NzY0NTMzMzQ5Mzc5OTcwfDI=?share_link_id=785320243310)
-I also created a user manual for the sensor we developed. You can find this manual here: [ici](https://github.com/Bonnemine-dev/SmartCampus-Sensors/blob/40b850b6d2dcd0b1091bbbd7cbeda0cba0075a8f/Mode-emploie.pdf)
+> When we developed the SmartCampus project, we also decided to create a wiki to explain how the project works and to track its progress. <br> This wiki can be accessed at the following address: https://github.com/Bonnemine-dev/SmartCampus/wiki <br><br>
+We also used Miro to record our ideas. Miro primarily served as a draft for us, but it enabled us to visualize our ideas and share them with other group members. <br> You can view our Miro board here:
+[Miro board](https://miro.com/welcomeonboard/azdnSjhLdFZNcXpMenUyeU1LUmNsTlVLSUFCN2VFT2dQUHhyMFgxN0NtYVpSRWljMnF4VmxxSERVb3VUTG91aXwzNDU4NzY0NTMzMzQ5Mzc5OTcwfDI=?share_link_id=785320243310)<br><br> I also wrote a user manual for the sensor we developed. <br> You can find this manual here: [Manual](https://github.com/Bonnemine-dev/SmartCampus-Sensors/blob/40b850b6d2dcd0b1091bbbd7cbeda0cba0075a8f/Mode-emploie.pdf)
 
 <br/><br/>
 
@@ -195,6 +206,9 @@ A significant challenge of engineering is dealing with a system when it doesn't,
 
 _Analysis sample(s)_
 
+> I had the opportunity to develop a small video game in C++ with a team of five, as previously mentioned. To program our game, we had to establish an organization and architecture. Once the entire team agreed, we began the development. However, we quickly faced problems related to our initial project organization. Consequently, we had to review everything, assess the pros and cons of our initial setup. After our analysis, we redefined a new plan, which proved effective for the remainder of the project.
+What I learned from this experience is that we knew when to say 'stop', to step back, and to identify what was going wrong. We were able to question ourselves and find solutions. This experience taught me a lot, especially about the importance of analysis in project management.
+
 <br/><br/>
 
 ---
@@ -206,6 +220,6 @@ Especially as engineers become more senior, oral presentation of work becomes an
 
 _Presentation sample(s)_
 
-When we successfully complete a project like those mentioned earlier, we are required to deliver it to the client once it is finished. To do this, we start by reviewing the key points of the specifications with the client, and then we proceed with a demonstration of the product. This demonstration requires careful preparation to decide which elements to present and in what order, to avoid confusing the client during our presentation. We explain the features, technical choices, challenges encountered, and solutions provided, among other things. Finally, we answer the client's questions. This exercise demands precision, clarity, and pedagogical skills. It is a task I particularly enjoy, as it allows showcasing the work done and seeing the client's satisfaction.
+> SmartCampus was a project conceived by our professors. We were asked to develop a product, which we then had to deliver to clients on time. Our professors played the roles of these clients. Here's how we proceeded with the delivery of our product. We began by reviewing the key points of the specifications to which we had agreed. Then, we conducted a complete demonstration of the product. This demonstration required meticulous preparation to decide which elements to present and in what order, so as not to lose the client during our presentation. Our plan was already well structured. We then discussed the parts of the specifications we were unable to fulfill and explained the reasons why. We also talked about the additions and liberties we took to improve the initially conceived product. Finally, we discussed the improvement points we had envisioned, and then answered the clients' questions. This exercise requires precision, clarity, and pedagogical skills. It's a task I particularly enjoy, as being comfortable with public speaking, I like presenting my work and seeing the clients' satisfaction.
 
 <br/><br/>
